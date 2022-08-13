@@ -10,4 +10,9 @@ Design de site utilizando HTML5 e CSS3
 
 * Foi utilizado o Visual Studio Code durante o desenvolvimento, que pode ser instalado gratuitamente [Aqui](https://code.visualstudio.com/).
 * Além disso, a extenção **Live Server** foi utilizada para a visualização do projeto e pode ser instalada dentro do próprio VS Code.
+
 !["Live Server"](https://miro.medium.com/max/1400/1*yvJItsOMMQZ64eq3uEeEng.png)
+
+# Vídeo
+
+Há um vídeo de apresentação disponível, que mostra o design do site.
