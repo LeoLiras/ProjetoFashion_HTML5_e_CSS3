@@ -17,6 +17,10 @@ Design de site utilizando HTML5 e CSS3
 
 Há um vídeo de apresentação disponível, que mostra o design do site.
 
+
+
+_________________________________________________________________________________________
+
 Leonardo de Lira Siqueira - leonardo018.siqueira@hotmail.com
 [Instagram](https://www.instagram.com/leonardo_lira10/)
 [LinkedIn](www.linkedin.com/in/leonardo-lira-95960b194)
